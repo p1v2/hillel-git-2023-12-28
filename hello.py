@@ -1,6 +1,6 @@
 def start_windows():
-    print("Hello from Windows 10!")
-    print("I am a Windows 10 user.")
+    print("Hello from Windows 11!")
+    print("I am a Windows 11 user.")
 
 
 if __name__ == "__main__":
