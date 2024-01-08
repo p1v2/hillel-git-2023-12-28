@@ -2,7 +2,7 @@ def start_windows():
     print("Hello from Windows 11!")
     print("I am a Windows 11 user.")
 
-    print("Windows 11 is the best OS ever!!!!456")
+    print("I love Windows 11!")
 
     print("some change from Github!!!123")
 
