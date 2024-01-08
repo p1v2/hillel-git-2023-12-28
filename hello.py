@@ -6,4 +6,5 @@ def start_windows():
 
 
 if __name__ == "__main__":
+    print("Important security update!")
     start_windows()
